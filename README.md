@@ -1,4 +1,4 @@
-# Milhonarios
+# Milionarios
 
 Repositório com o código para conferência de jogos da MegaSena.
 
@@ -8,8 +8,8 @@ de multipolos jogos da MegaSena.
 Para instalar, basta clonar o repositório, criar um virtualenv e executar o pip install, como sugerido abaixo:
 
 ```bash
-$ git clone https://github.com/Riverfount/milhonarios.git
-$ cd milhonarios
+$ git clone https://github.com/Riverfount/milionarios.git
+$ cd milionarios
 $ python -m venv .venv
 $ source .venv/bin/activate
 $ pip install -e .
