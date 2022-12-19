@@ -1,0 +1,3 @@
+ipython   # terminal
+pip-tools # lock de dependencias
+flake8    # linter
